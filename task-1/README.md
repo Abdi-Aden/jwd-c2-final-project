@@ -38,5 +38,5 @@ Your task should meet the assesment criteria in the **Final Project - Scorecard 
 ## Example 2:
 ![](./images/moqups-example.png) 
 
-## Example 3: Mockup layout w/ task card added 
+## Example 3: Moqup layout w/ task card added 
 ![](./images/moqup-with-task.png)
