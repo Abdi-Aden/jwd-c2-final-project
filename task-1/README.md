@@ -33,4 +33,4 @@ Your task should meet the assesment criteria in the **Final Project - Scorecard 
 
 ## Example
 
-![](./images/wireframes.png) ![](./images/moqups-example.png) ![](./images/moqup-with-task.png)
+![Example 1](./images/wireframes.png) ![Example 2](./images/moqups-example.png) ![](./images/moqup-with-task.png)
