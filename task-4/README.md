@@ -17,14 +17,7 @@ Implement a form that captures the fields required to create a task.
 
 In this step, we'll add a form to create a new task.
 
-1. Add a new form inside the `index.html` page with all fields required to create a new task:
-* Name
-* Description
-* AssignedTo 
-* DueDate
-* Status
-
-2. Add a button to submit your form.
+1. Add a button to submit your form.
 
 > #### Useful Resources for this step
 > - [Forms](https://getbootstrap.com/docs/4.5/components/forms/)

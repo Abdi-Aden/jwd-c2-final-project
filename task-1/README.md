@@ -9,7 +9,7 @@ Is always a good practice to design first before start coding. The objective of 
 ### Step 1: 
 Create an account on <a href="https://moqups.com/" target="_blank">Moqups</a>
 
-### Step 2: Create your App Wireframes
+### Step 2: Create your App Wireframe
 
 In this step, we'll create the wireframes of your `TaskManager` application. Make sure you read the acceptance criteria on the **results** section before
 you start designing. Ask the instructor if you have any questions!
@@ -31,12 +31,12 @@ You should have implemented the different screens of your application (possibly 
 
 Your task should meet the assesment criteria in the **Final Project - Scorecard Rubric**.
 
-## Example 1: Wireframe 
+## Example 1: 
 
 ![](./images/wireframes.png) 
 
-## Example 2: Moqup layout
+## Example 2:
 ![](./images/moqups-example.png) 
 
-## Example 3: Moqup layout w/ task card added
+## Example 3: Mockup layout w/ task card added 
 ![](./images/moqup-with-task.png)
